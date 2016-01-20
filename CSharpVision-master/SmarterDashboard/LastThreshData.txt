@@ -1,0 +1,1 @@
+{Format:HSV,Min1:83,Min2:54,Min3:38,Max1:97,Max2:255,Max3:135,Erode:2,Dilate:2}

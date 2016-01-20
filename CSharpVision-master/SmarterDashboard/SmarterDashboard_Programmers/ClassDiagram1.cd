@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SmarterDashboard_Programmers.HsvImageProcessor" Collapsed="true">
+    <Position X="9.25" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAQAAA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.BgrImageProcessor" Collapsed="true">
+    <Position X="11.25" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAQAAA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.ImageProcessor" Collapsed="true">
+    <Position X="10" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IIQAlQIBEACiEQABAREEAAcQEEAgAEAIEQYBEQAQAAU=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.NetworkTable" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABCAAEAAACAAAABEAAAAQAQAAEQAAABAIAAAAACQAAA=</HashCode>
+      <FileName>NetworkTable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.Program" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.ProgrammersWindow" Collapsed="true">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BgOGidGCJ2MlAFICBYmIQFACEBC+FBZgSDiaAYIARG4=</HashCode>
+      <FileName>ProgrammersWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.IPCameraStream" Collapsed="true">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAKAACAACEAAAAAAAQAAAAQAQAAAACABCAAAAAAA=</HashCode>
+      <FileName>Stream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.WebCameraStream" Collapsed="true">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAKAAAAACAAAAAAAAQAAAAQAQAAAACAACAAAAAAA=</HashCode>
+      <FileName>Stream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.USBCamera" Collapsed="true">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABKAAAABCAAAAAAAAQBCAAQAQAAACAAECAAAEgEA=</HashCode>
+      <FileName>Stream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.Stream" Collapsed="true">
+    <Position X="10" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>GAAAcKARAQAiIAhDAAIAQQEAgQg4AOCGEAQCAAAQAAA=</HashCode>
+      <FileName>Stream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.HsvThreshData" Collapsed="true">
+    <Position X="9.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThreshData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.BgrThreshData" Collapsed="true">
+    <Position X="11.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThreshData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmarterDashboard_Programmers.ThreshData" Collapsed="true">
+    <Position X="10" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAQAAAAAEAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ThreshData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SmarterDashboard_Programmers.CameraTypes" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Stream.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>
